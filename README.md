@@ -1,2 +1,1 @@
-# Game-with-Python-
-Game with Python (pygame library)
+# platformer_akm_pygame-
